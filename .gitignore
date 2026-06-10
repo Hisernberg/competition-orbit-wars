@@ -1,1 +1,31 @@
-*.pyc\n__pycache__/\n*.pyo\n.kaggle/\n*.tar.gz\n.env\n.DS_Store
+# Python cache
+*.pyc
+*.pyo
+__pycache__/
+
+# Kaggle CLI
+.kaggle/
+
+# Build artifacts
+*.tar.gz
+*.egg-info/
+
+# Environment
+.env
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
