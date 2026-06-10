@@ -1,0 +1,1 @@
+*.pyc\n__pycache__/\n*.pyo\n.kaggle/\n*.tar.gz\n.env\n.DS_Store
