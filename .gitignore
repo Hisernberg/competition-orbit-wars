@@ -1,31 +1,25 @@
-# Python cache
-*.pyc
-*.pyo
-__pycache__/
-
-# Kaggle CLI
-.kaggle/
-
-# Build artifacts
+```
+# Compressed files
 *.tar.gz
-*.egg-info/
-
-# Environment
-.env
-.venv/
-env/
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Test coverage
-.coverage
-htmlcov/
-.pytest_cache/
+*.zip
+*.gz
+*.tar
+*.tgz
+*.bz2
+*.xz
+*.7z
+*.rar
+*.zst
+*.lz4
+*.lzh
+*.cab
+*.arj
+*.rpm
+*.deb
+*.Z
+*.lz
+*.lzo
+*.tar.bz2
+*.tar.xz
+*.tar.zst
+```
